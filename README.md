@@ -1,4 +1,4 @@
-Download the zip file then extract all then you see the folder then go to 
+Download the zip file then extract all then you see the folder clikc the flder you see another folder  then go to 
 chrome://extensions/
 
 then drag it in there or upload it
